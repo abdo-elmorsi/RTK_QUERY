@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Product 1",
+      "category": "fitness",
+      "price": 4010,
+      "description": "This is description about product 1"
+    },
+    {
+      "id": 2,
+      "title": "Product 2",
+      "category": "fitness",
+      "price": 4020,
+      "description": "This is description about product 2"
+    },
+    {
+      "id": 3,
+      "title": "Product 3",
+      "category": "fitness",
+      "price": 4030,
+      "description": "This is description about product 3"
+    },
+    {
+      "id": 4,
+      "title": "Product 4",
+      "category": "fitness",
+      "price": 4040,
+      "description": "This is description about product 4"
+    }
+  ]
+}
